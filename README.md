@@ -5,7 +5,8 @@ WizBulb is a modern Android application built with Jetpack Compose designed to c
 ## 📸 App Preview
 
 <p align="center">
-  <img src="screenshot.png" width="350" alt="WizBulb App Screenshot">
+  <img src="./screenshot.png" width="300" alt="Home Screen" />
+  <img src="./screenshot1.png" width="300" alt="Scenes Screen" />
 </p>
 
 ## ✨ Features
