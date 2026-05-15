@@ -2,6 +2,12 @@
 
 WizBulb is a modern Android application built with Jetpack Compose designed to control WiZ smart lights over a local area network (LAN). It leverages UDP communication to discover bulbs and manage their state without requiring cloud connectivity.
 
+## 📸 App Preview
+
+<p align="center">
+  <img src="screenshot.png" width="350" alt="WizBulb App Screenshot">
+</p>
+
 ## ✨ Features
 
 - **Network Discovery**: Robust UDP broadcast mechanism that scans all available network interfaces to find active WiZ bulbs.
