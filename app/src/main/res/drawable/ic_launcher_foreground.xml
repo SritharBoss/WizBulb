@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Bulb Glass -->
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M54,20c-13.25,0 -24,10.75 -24,24c0,8.22 4.12,15.47 10.42,19.78c2.52,1.73 3.58,4.61 3.58,7.22v3.5c0,1.38 1.12,2.5 2.5,2.5h15c1.38,0 2.5,-1.12 2.5,-2.5v-3.5c0,-2.61 1.06,-5.49 3.58,-7.22C73.88,59.47 78,52.22 78,44C78,30.75 67.25,20 54,20z" />
+    <!-- Bulb Base -->
+    <path
+        android:fillColor="#9E9E9E"
+        android:pathData="M45,78h18v3h-18zM45,82h18v3h-18zM48,86c0,2.21 2.69,4 6,4s6,-1.79 6,-4h-12z" />
+    <!-- Light Rays -->
+    <path
+        android:fillColor="#FBC02D"
+        android:pathData="M54,10l0,5M54,93l0,5M20,54l5,0M83,54l5,0M29,29l3.5,3.5M75.5,75.5l3.5,3.5M29,79l3.5,-3.5M75.5,22.5l3.5,3.5"
+        android:strokeWidth="2"
+        android:strokeColor="#FBC02D"
+        android:strokeLineCap="round" />
+</vector>
